@@ -1,0 +1,10 @@
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\bin\Debug\Poligoni.exe.config
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\bin\Debug\Poligoni.exe
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\bin\Debug\Poligoni.pdb
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\obj\Debug\Poligoni.csproj.AssemblyReference.cache
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\obj\Debug\Poligoni.Form1.resources
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\obj\Debug\Poligoni.Properties.Resources.resources
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\obj\Debug\Poligoni.csproj.GenerateResource.cache
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\obj\Debug\Poligoni.csproj.CoreCompileInputs.cache
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\obj\Debug\Poligoni.exe
+C:\Users\fetzy\source\repos\Vizuelno\Poligoni\Poligoni\obj\Debug\Poligoni.pdb
