@@ -1,0 +1,10 @@
+C:\Users\fetzy\source\repos\drawLines\drawLines\bin\Debug\drawLines.exe.config
+C:\Users\fetzy\source\repos\drawLines\drawLines\bin\Debug\drawLines.exe
+C:\Users\fetzy\source\repos\drawLines\drawLines\bin\Debug\drawLines.pdb
+C:\Users\fetzy\source\repos\drawLines\drawLines\obj\Debug\drawLines.csproj.AssemblyReference.cache
+C:\Users\fetzy\source\repos\drawLines\drawLines\obj\Debug\drawLines.Form1.resources
+C:\Users\fetzy\source\repos\drawLines\drawLines\obj\Debug\drawLines.Properties.Resources.resources
+C:\Users\fetzy\source\repos\drawLines\drawLines\obj\Debug\drawLines.csproj.GenerateResource.cache
+C:\Users\fetzy\source\repos\drawLines\drawLines\obj\Debug\drawLines.csproj.CoreCompileInputs.cache
+C:\Users\fetzy\source\repos\drawLines\drawLines\obj\Debug\drawLines.exe
+C:\Users\fetzy\source\repos\drawLines\drawLines\obj\Debug\drawLines.pdb

@@ -1,0 +1,10 @@
+C:\Users\fetzy\source\repos\Polygons\Polygons\bin\Debug\Polygons.exe.config
+C:\Users\fetzy\source\repos\Polygons\Polygons\bin\Debug\Polygons.exe
+C:\Users\fetzy\source\repos\Polygons\Polygons\bin\Debug\Polygons.pdb
+C:\Users\fetzy\source\repos\Polygons\Polygons\obj\Debug\Polygons.csproj.AssemblyReference.cache
+C:\Users\fetzy\source\repos\Polygons\Polygons\obj\Debug\Polygons.Form1.resources
+C:\Users\fetzy\source\repos\Polygons\Polygons\obj\Debug\Polygons.Properties.Resources.resources
+C:\Users\fetzy\source\repos\Polygons\Polygons\obj\Debug\Polygons.csproj.GenerateResource.cache
+C:\Users\fetzy\source\repos\Polygons\Polygons\obj\Debug\Polygons.csproj.CoreCompileInputs.cache
+C:\Users\fetzy\source\repos\Polygons\Polygons\obj\Debug\Polygons.exe
+C:\Users\fetzy\source\repos\Polygons\Polygons\obj\Debug\Polygons.pdb
