@@ -1,0 +1,10 @@
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\bin\Debug\movingRectangles.exe.config
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\bin\Debug\movingRectangles.exe
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\bin\Debug\movingRectangles.pdb
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\obj\Debug\movingRectangles.csproj.AssemblyReference.cache
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\obj\Debug\movingRectangles.Form1.resources
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\obj\Debug\movingRectangles.Properties.Resources.resources
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\obj\Debug\movingRectangles.csproj.GenerateResource.cache
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\obj\Debug\movingRectangles.csproj.CoreCompileInputs.cache
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\obj\Debug\movingRectangles.exe
+C:\Users\fetzy\source\repos\movingRectangles\movingRectangles\obj\Debug\movingRectangles.pdb
