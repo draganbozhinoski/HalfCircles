@@ -1,0 +1,10 @@
+C:\Users\fetzy\source\repos\Circles\Circles\bin\Debug\Circles.exe.config
+C:\Users\fetzy\source\repos\Circles\Circles\bin\Debug\Circles.exe
+C:\Users\fetzy\source\repos\Circles\Circles\bin\Debug\Circles.pdb
+C:\Users\fetzy\source\repos\Circles\Circles\obj\Debug\Circles.csproj.AssemblyReference.cache
+C:\Users\fetzy\source\repos\Circles\Circles\obj\Debug\Circles.Form1.resources
+C:\Users\fetzy\source\repos\Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\Users\fetzy\source\repos\Circles\Circles\obj\Debug\Circles.csproj.GenerateResource.cache
+C:\Users\fetzy\source\repos\Circles\Circles\obj\Debug\Circles.csproj.CoreCompileInputs.cache
+C:\Users\fetzy\source\repos\Circles\Circles\obj\Debug\Circles.exe
+C:\Users\fetzy\source\repos\Circles\Circles\obj\Debug\Circles.pdb
