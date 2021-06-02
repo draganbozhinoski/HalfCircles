@@ -1,0 +1,12 @@
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\bin\Debug\BrziPrsti.exe.config
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\bin\Debug\BrziPrsti.exe
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\bin\Debug\BrziPrsti.pdb
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\obj\Debug\BrziPrsti.csproj.AssemblyReference.cache
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\obj\Debug\BrziPrsti.Form1.resources
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\obj\Debug\BrziPrsti.Game.resources
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\obj\Debug\BrziPrsti.Leaderboard.resources
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\obj\Debug\BrziPrsti.Properties.Resources.resources
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\obj\Debug\BrziPrsti.csproj.GenerateResource.cache
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\obj\Debug\BrziPrsti.csproj.CoreCompileInputs.cache
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\obj\Debug\BrziPrsti.exe
+C:\Users\fetzy\source\repos\Proektna\BrziPrsti\BrziPrsti\obj\Debug\BrziPrsti.pdb
