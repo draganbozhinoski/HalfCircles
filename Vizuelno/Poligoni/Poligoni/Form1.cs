@@ -25,6 +25,7 @@ namespace Poligoni
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            toollabel.Text = "#Polygons: 0, Coordinates: 0,0";
         }
 
         private void Form1_MouseClick(object sender, MouseEventArgs e)
@@ -36,13 +37,13 @@ namespace Poligoni
         private void Form1_MouseMove(object sender, MouseEventArgs e)
         {
             scena.updateCursor(e.Location);
+            toollabel.Text = string.Format("#Polygons: {0}, Coordinates: {1},{2}", scena.polygons.Count, e.X, e.Y);
             Invalidate();
         }
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             scena.draw(e.Graphics);
-            Invalidate();
         }
 
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
@@ -53,10 +54,10 @@ namespace Poligoni
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog sf = new SaveFileDialog();
-            if(sf.ShowDialog() == DialogResult.OK)
+            if (sf.ShowDialog() == DialogResult.OK)
             {
                 save(sf.FileName);
-            }    
+            }
         }
         private void save(string Path)
         {
@@ -68,7 +69,7 @@ namespace Poligoni
         }
         private void open(string Path)
         {
-            using (FileStream fs = new FileStream(Path,FileMode.Open))
+            using (FileStream fs = new FileStream(Path, FileMode.Open))
             {
                 IFormatter formatter = new BinaryFormatter();
                 scena = (Scena)formatter.Deserialize(fs);
@@ -78,7 +79,7 @@ namespace Poligoni
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
-            if(ofd.ShowDialog() == DialogResult.OK)
+            if (ofd.ShowDialog() == DialogResult.OK)
             {
                 open(ofd.FileName);
             }
